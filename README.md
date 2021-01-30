@@ -27,7 +27,7 @@
 ## How to install
 
 1. Download the latest release
-2. Go to `chrome:extensions`
+2. Go to `http://chrome:extensions`
 3. Activate developer mode
 4. Click on the button "load unpacked"
 5. Select the source folder
