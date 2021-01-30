@@ -25,9 +25,10 @@
 |   ✅   |   ✅    |   ❌   |
 
 ## How to install
+This tutorial is made for Chrome browsers, for Firefox, Google is your friend...
 
 1. Download the latest release
-2. Go to `http://chrome:extensions`
+2. Go to `chrome:extensions`
 3. Activate developer mode
 4. Click on the button "load unpacked"
 5. Select the source folder
