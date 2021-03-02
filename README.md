@@ -22,7 +22,7 @@
 
 | Chrome | Firefox | Safari |
 | :----: | :-----: | :----: |
-|   ✅   |   ✅    |   ❌   |
+|   ✅   |   ❌    |   ❌   |
 
 ## How to install
 This tutorial is made for Chrome browsers, for Firefox, Google is your friend...
